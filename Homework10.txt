@@ -1,0 +1,28 @@
+-git init
+-git status
+
+  /создаю файл .gitignore и там прописываю:
+  *.sass
+  /bin
+  /admin
+  /config
+
+-git add .
+-git status
+-git commit -m 'added gitignore'
+-git status
+
+- git remote add origin https://github.com/xTrAcKx/homeworkGit.git
+- git push -u origin master
+
+-git branch newPage
+-git checkout newPage
+-git status
+-git commit -m 'added new page'
+ /cоздаю нужные папки и файлы
+-git add.
+-git commit -m 'new page'
+-git status
+
+- git checkout master
+- git push -u origin
